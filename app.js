@@ -96,7 +96,7 @@ const teamList = [];
     function chooseMember() {
         inquirer.prompt([
             {
-                type: "checkbox",
+                type: "list",
                 message: "Please select an employee to add to your team:",
                 name: "role",
                 choices: ["Manager", "Engineer", "Intern", "No more members to add at this time!"]
