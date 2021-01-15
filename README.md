@@ -10,6 +10,7 @@ For creating a webpage to display your development team
 Clone this repo
 ## Instructions
 Answer the series of prompts in your terminal to generate an html to display your team
+ https://youtu.be/72En9ZWrnoQ
 ## Credits
 Elijah Davis
 ## License 
